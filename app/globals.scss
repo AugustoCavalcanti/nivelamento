@@ -1,0 +1,23 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.img-perfil {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;;
+}
+
+.container-fluid {
+  --bs-gutter-x: 5.5rem !important;
+}
+
+.card-body {
+  a{
+    color: #41464b;
+    text-decoration: none;
+    font-size: 1.5rem !important;
+  }
+}
+
+.card-resumo {
+  width: 18rem;
+}
